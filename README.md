@@ -65,7 +65,7 @@ Sundan lang to para mapagana mo sa laptop mo benz (P.S. Di ako sure lalo't Windo
     *   `db.py`: Para sa database.
     *   `ui_utils.py`: Mga tulong sa paggawa ng itsura ng page.
     *   `*_routes.py`: Dito yung mga code para sa iba't ibang parte ng website (login, products, etc.).
-    *   `static/`: Dito yung mga images (`assets/`) at custom font (`RocaOne.ttf`).
+    *   `static/`: Dito yung mga images (`assets/` [click mo 'to](https://github.com/Golgrax/py-cute/tree/main/pup_study_style/static/assets) ) at custom font (`RocaOne.ttf`).
 *   `schema.sql`: Itsura ng database tables.
 *   `run.py`: Pang-start ng app.
 *   `README.md`: Ito yung binabasa mo ngayon. :)
